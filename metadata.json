@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Abdul Salam's Image Generator",
+  "description": "Generate images from text prompts with customizable aspect ratios using the Gemini API.",
+  "requestFramePermissions": []
+}
